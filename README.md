@@ -10,7 +10,7 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/JCBadion/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JCBadion/azure-network-protocols)
 - <b>Network Filesharing and Permissions </b>
-  - [Connecting Domain Controller files to users](https://github.com/JCBadion/network-filesharing)
+  - [Connecting Domain Controller Files to Users](https://github.com/JCBadion/network-filesharing)
 
 <h2>🤳Connect with me:</h2>
 
